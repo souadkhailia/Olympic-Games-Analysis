@@ -1,4 +1,4 @@
-# Olympic_history
+# Olympic Games Analysis Using Python
 
 ![Project Image](https://github.com/souadkhailia/Olympic_history/blob/main/slide-0.jpg?raw=true)
 
